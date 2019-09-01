@@ -11,7 +11,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "APM",
-          "url": "https://https://github.com/lvasselt/APM_Leonardo/apmleonardo-avr-1.0.0.zip",
+          "url": "https://github.com/lvasselt/APM_Leonardo/blob/master/hardware/apmleonardo-avr-1.0.0.zip?raw=true",
           "archiveFileName": "apmleonardo-avr-1.0.0.zip",
           "checksum": "SHA-256:836f1ba009948b914672c0b3e0acf568704db9bd876d54fd440d3b63aa43322f",
           "size": "4872",
